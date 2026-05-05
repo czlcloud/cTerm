@@ -43,3 +43,6 @@ credentials.json
 *.swo
 *.swn
 *.swm
+
+# Keep remember for cross-platform dev notes
+!.remember/
