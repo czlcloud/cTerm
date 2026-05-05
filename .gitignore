@@ -1,0 +1,45 @@
+# Build
+.build/
+DerivedData/
+
+# Swift PM
+.swiftpm/
+Package.resolved
+
+# Xcode
+xcuserdata/
+*.xcworkspace
+*.xcuserstate
+
+# macOS
+.DS_Store
+Thumbs.db
+
+# Secrets / User data
+.env
+*.pem
+*.key
+credentials.json
+
+# IDE
+.vscode/
+.idea/
+
+# Vim
+.*.swp
+.*.swo
+.*.swn
+.*.swm
+
+# Temporary
+/tmp/
+*.log
+
+# Remember files (session notes)
+.remember/
+
+# Vim swap
+*.swp
+*.swo
+*.swn
+*.swm

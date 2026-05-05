@@ -1,0 +1,4 @@
+module CVTerm {
+    header "include/vterm.h"
+    export *
+}

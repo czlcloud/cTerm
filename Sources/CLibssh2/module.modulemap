@@ -1,0 +1,5 @@
+module CLibssh2 {
+    header "include/libssh2.h"
+    export *
+    link "ssh2"
+}
